@@ -1,1 +1,4 @@
-# -BattleBot
+# BattleBot Controller and Robot
+
+## Abstract
+  
